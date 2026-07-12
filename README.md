@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Fahad Khan
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Fahad%20Khan&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
 **A passionate BCA Student || Technology Enthusiast || Aspiring IT Professional from India**
 
 Email Me 👉 ✉️ **zk070853@gmail.com** For Collaboration/Project or Anything Else. 😊😊
